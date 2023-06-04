@@ -1,7 +1,6 @@
 import React from 'react'
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
 import classes from "./Burger.module.css";
-import { useEffect } from 'react';
 
 const Burger=(props)=>{
 

@@ -4,7 +4,7 @@ import logopng from "../../assests/images/burgreLogo.png";
 
 const Logo = () => (
     <div className={classes.Logo}>
-        <img src={logopng}></img>
+        <img alt='This is the picture' src={logopng}></img>
     </div>
 );
 
